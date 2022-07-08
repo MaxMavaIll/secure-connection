@@ -24,7 +24,7 @@ ssh-keygen
 
 Якщо ви створили успіно ключ ось що ви побачите наступне
 
-![Знімок екрану з 2022-07-08 12-10-29](https://user-images.githubusercontent.com/102728347/177959007-db31147b-73d4-480c-8336-a5ff458297ce.png)
+![Знімок екрану з 2022-07-08 14-19-19](https://user-images.githubusercontent.com/102728347/177982810-a1e9062a-f05b-4059-ae00-54c32f98bebd.png)
 
 
 Переходимо до деректорії `~/.ssh`. Там будуть знаходитись такі файли `id_rsa` і `id_rsa.pub`
@@ -32,7 +32,8 @@ ssh-keygen
 cd .ssh/ && ls
 ```
 
-![Знімок екрану з 2022-07-08 12-17-13](https://user-images.githubusercontent.com/102728347/177960302-3ad85429-e735-4304-967a-8335a9dd1481.png)
+![Знімок екрану з 2022-07-08 14-20-40](https://user-images.githubusercontent.com/102728347/177982764-440ea812-7d9a-47ef-a6fc-fc722a910687.png)
+
 
 Виводимо на екран все що знаходиться в файлі `id-rsa.pub`
 ```
