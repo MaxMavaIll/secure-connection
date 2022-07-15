@@ -86,8 +86,6 @@ nano sshd_config
 
 ![Screenshot from 2022-07-15 15-43-42](https://user-images.githubusercontent.com/102728347/179226485-1bef9eac-3d70-468d-8541-8bdcfa3b3624.png)
 
-![Screenshot from 2022-07-15 15-44-06](https://user-images.githubusercontent.com/102728347/179226533-0920c8ab-d325-475f-8ef7-3f00301c778d.png)
-
 А нам потрібно щоб він виглядав так
 
 ![Screenshot from 2022-07-15 15-50-33](https://user-images.githubusercontent.com/102728347/179226553-c5bee4b1-7ec1-4797-b933-94d42ba9700f.png)
